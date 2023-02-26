@@ -211,7 +211,11 @@ body.is-preload *:after {
 		transform: scale(1) rotate(360deg);
 	}
 }
+#nfo{
+	position:absolute;
+	right:5cm;
 
+}
 @-webkit-keyframes spinner-rotate {
 	0% {
 		-moz-transform: scale(1) rotate(0deg);
